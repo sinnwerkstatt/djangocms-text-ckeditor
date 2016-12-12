@@ -1,4 +1,4 @@
-window.jQuery = window.$ = django.jQuery;
+CMS.$ = django.jQuery;
 (function ($) {
     // CMS.$ will be passed for $
     $(function () {
